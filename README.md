@@ -16,6 +16,7 @@ This module board is a headphone output module featuring TI’s stereo audio DAC
 - Power IC: [AP7361EA-33E-13](https://www.diodes.com/assets/Datasheets/AP7361EA.pdf)
 
 ## Application Example
+- [JUMBLEQ](https://github.com/yamamo2shun1/JUMBLEQ)
 
 ## Size
 <img width="2549" height="1391" alt="image" src="https://github.com/user-attachments/assets/9e1e75c9-edfb-4d77-a73e-30688dd0c473" />
