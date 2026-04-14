@@ -22,6 +22,9 @@ This module board is a headphone output module featuring TI’s stereo audio DAC
 <img width="2549" height="1391" alt="image" src="https://github.com/user-attachments/assets/9e1e75c9-edfb-4d77-a73e-30688dd0c473" />
 
 ## Photos
+![DSCF8243](https://github.com/user-attachments/assets/ec2aea46-4fba-4ade-9aee-a12531560912)
+![DSCF8257](https://github.com/user-attachments/assets/82b2a300-9abc-4bc8-a8b1-5523fac51cf5)
+![DSCF8250](https://github.com/user-attachments/assets/f9aba0e3-0338-4831-99e4-675336f193e1)
 
 ## License
 The hardware design files in this repository are licensed under the
