@@ -4,7 +4,7 @@ This module board is a headphone output module featuring TI’s stereo audio DAC
 
 ## How to buy
 - Tindie(International)  
-- BASE(Japan)
+- [BASE(Japan)](https://miyworks.base.shop/items/141803009)
 
 ## Specifications
 - Power: 5V input, onboard 3.3V regulator (AP7361)
