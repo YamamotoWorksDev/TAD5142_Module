@@ -2155,7 +2155,7 @@
 		(uuid "56f08217-fcc5-4fb4-9b2f-6d078f73704e")
 	)
 	(junction
-		(at 97.79 38.1)
+		(at 132.08 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "586c1718-518d-472f-b1d4-33bfb1da7df4")
@@ -2173,13 +2173,13 @@
 		(uuid "5a9fb492-f8df-4524-ae15-b37dfa12f453")
 	)
 	(junction
-		(at 87.63 38.1)
+		(at 121.92 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67326050-1055-43b6-8468-0e600d9eb120")
 	)
 	(junction
-		(at 97.79 27.94)
+		(at 132.08 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "680b11c3-01b6-4586-a90c-7041cbdc5faf")
@@ -2209,7 +2209,7 @@
 		(uuid "8e2d3bd1-513b-499f-a228-3040447df276")
 	)
 	(junction
-		(at 74.93 27.94)
+		(at 109.22 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "91cf7008-fcff-4ac2-9180-e662d3fb294a")
@@ -2233,7 +2233,7 @@
 		(uuid "b2a8e6e1-8509-4573-9a14-bc8f3b62a926")
 	)
 	(junction
-		(at 105.41 27.94)
+		(at 139.7 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb701b6a-ac2b-457e-ba14-b1b776ad1692")
@@ -2264,7 +2264,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 41.91) (xy 130.81 44.45)
+			(xy 165.1 59.69) (xy 165.1 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2334,7 +2334,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 27.94) (xy 74.93 27.94)
+			(xy 114.3 45.72) (xy 109.22 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2344,7 +2344,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 38.1) (xy 97.79 38.1)
+			(xy 121.92 55.88) (xy 132.08 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2394,7 +2394,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 27.94) (xy 74.93 30.48)
+			(xy 109.22 45.72) (xy 109.22 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2434,7 +2434,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 21.59) (xy 130.81 24.13)
+			(xy 165.1 39.37) (xy 165.1 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2484,7 +2484,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 38.1) (xy 87.63 38.1)
+			(xy 109.22 55.88) (xy 121.92 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2494,7 +2494,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 27.94) (xy 97.79 27.94)
+			(xy 129.54 45.72) (xy 132.08 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2514,7 +2514,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 38.1) (xy 87.63 40.64)
+			(xy 121.92 55.88) (xy 121.92 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2574,7 +2574,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 35.56) (xy 87.63 38.1)
+			(xy 121.92 53.34) (xy 121.92 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2584,7 +2584,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 25.4) (xy 105.41 27.94)
+			(xy 139.7 43.18) (xy 139.7 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2664,7 +2664,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 27.94) (xy 97.79 27.94)
+			(xy 139.7 45.72) (xy 132.08 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2784,7 +2784,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 29.21) (xy 40.64 29.21)
+			(xy 72.39 46.99) (xy 74.93 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2814,7 +2814,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 30.48) (xy 105.41 27.94)
+			(xy 139.7 48.26) (xy 139.7 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2964,7 +2964,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 25.4) (xy 74.93 27.94)
+			(xy 109.22 43.18) (xy 109.22 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3014,7 +3014,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 31.75) (xy 40.64 31.75)
+			(xy 72.39 49.53) (xy 74.93 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3034,7 +3034,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 38.1) (xy 105.41 38.1)
+			(xy 132.08 55.88) (xy 139.7 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3064,7 +3064,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 29.21) (xy 40.64 26.67)
+			(xy 74.93 46.99) (xy 74.93 44.45)
 		)
 		(stroke
 			(width 0)
@@ -3074,7 +3074,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 27.94) (xy 97.79 30.48)
+			(xy 132.08 45.72) (xy 132.08 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3164,7 +3164,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 31.75) (xy 130.81 34.29)
+			(xy 165.1 49.53) (xy 165.1 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3244,7 +3244,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 31.75) (xy 40.64 34.29)
+			(xy 74.93 49.53) (xy 74.93 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3409,7 +3409,7 @@
 			(uuid "84d59d93-8301-4898-b1c4-e26c41343cb6")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C7")
 					(unit 1)
@@ -3419,7 +3419,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 130.81 21.59 0)
+		(at 165.1 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3427,7 +3427,7 @@
 		(dnp no)
 		(uuid "0e3b42d6-ad11-4fc5-be5e-0de6f84eee44")
 		(property "Reference" "#PWR01"
-			(at 130.81 25.4 0)
+			(at 165.1 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3436,7 +3436,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 130.81 18.034 0)
+			(at 165.1 35.814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3444,7 +3444,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 21.59 0)
+			(at 165.1 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,7 +3453,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 21.59 0)
+			(at 165.1 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,7 +3462,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 130.81 21.59 0)
+			(at 165.1 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3474,7 +3474,7 @@
 			(uuid "06ec849d-7b74-403f-a6c3-a5aea3911517")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR01")
 					(unit 1)
@@ -3541,7 +3541,7 @@
 			(uuid "268d2df5-66cf-432a-8a1e-f86f2ccc8d90")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "R2")
 					(unit 1)
@@ -3551,7 +3551,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 105.41 34.29 0)
+		(at 139.7 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3559,7 +3559,7 @@
 		(dnp no)
 		(uuid "2669b4b2-0d7e-4e32-b439-29c491f5d6ee")
 		(property "Reference" "C3"
-			(at 106.68 31.75 0)
+			(at 140.97 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3568,7 +3568,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 106.68 36.83 0)
+			(at 140.97 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3577,7 +3577,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 106.3752 38.1 0)
+			(at 140.6652 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3586,7 +3586,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 34.29 0)
+			(at 139.7 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3595,7 +3595,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 34.29 0)
+			(at 139.7 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3610,7 +3610,7 @@
 			(uuid "eacb8237-ceef-4453-8ca1-3154ca6a60de")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C3")
 					(unit 1)
@@ -3620,7 +3620,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 44.45 0)
+		(at 165.1 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3628,7 +3628,7 @@
 		(dnp no)
 		(uuid "26a8b3e8-b41c-4f2a-a89a-3dc1d5ce2145")
 		(property "Reference" "#PWR07"
-			(at 130.81 50.8 0)
+			(at 165.1 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3637,7 +3637,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 48.26 0)
+			(at 165.1 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3645,7 +3645,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 44.45 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3654,7 +3654,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 44.45 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3663,7 +3663,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 44.45 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3675,7 +3675,7 @@
 			(uuid "37834392-41db-4c12-bc34-0785b7427311")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR07")
 					(unit 1)
@@ -3744,7 +3744,7 @@
 			(uuid "c5162d95-4f9f-4c99-9d71-b4f819e74cf2")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C4")
 					(unit 1)
@@ -3754,7 +3754,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AP7361C-18E")
-		(at 87.63 27.94 0)
+		(at 121.92 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3762,7 +3762,7 @@
 		(dnp no)
 		(uuid "312e9691-7ca0-4707-9191-079f3d27b484")
 		(property "Reference" "U1"
-			(at 83.82 22.86 0)
+			(at 118.11 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3770,7 +3770,7 @@
 			)
 		)
 		(property "Value" "AP7361EA-33E-13"
-			(at 92.075 24.765 0)
+			(at 126.365 42.545 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3778,7 +3778,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 87.63 22.225 0)
+			(at 121.92 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3788,7 +3788,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP7361C.pdf"
-			(at 87.63 29.21 0)
+			(at 121.92 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3797,7 +3797,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 87.63 27.94 0)
+			(at 121.92 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3815,7 +3815,7 @@
 			(uuid "0bebeae8-75db-4690-837b-eca01373b8b7")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "U1")
 					(unit 1)
@@ -3825,7 +3825,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 40.64 26.67 0)
+		(at 74.93 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3833,7 +3833,7 @@
 		(dnp no)
 		(uuid "37d4eb0e-a928-4047-97b9-2d8eb486fdc3")
 		(property "Reference" "#PWR04"
-			(at 40.64 30.48 0)
+			(at 74.93 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +3842,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 40.64 22.86 0)
+			(at 74.93 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +3850,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 26.67 0)
+			(at 74.93 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3859,7 +3859,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 26.67 0)
+			(at 74.93 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3868,7 +3868,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 40.64 26.67 0)
+			(at 74.93 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3880,7 +3880,7 @@
 			(uuid "4fdca71d-9c41-4e2a-aa6e-157b66dee2a5")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR04")
 					(unit 1)
@@ -3949,7 +3949,7 @@
 			(uuid "cd626dd7-f85b-4651-b325-f08eab20f81a")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C6")
 					(unit 1)
@@ -4018,7 +4018,7 @@
 			(uuid "e6368707-1959-4489-82b6-5ec6e0e2c63e")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C10")
 					(unit 1)
@@ -4087,7 +4087,7 @@
 			(uuid "e5d190ae-13c6-404a-9d42-c31207c8d4ec")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C8")
 					(unit 1)
@@ -4097,7 +4097,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 130.81 38.1 90)
+		(at 165.1 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4105,7 +4105,7 @@
 		(dnp no)
 		(uuid "540f229f-b965-4f96-a1da-9a95006d5ab0")
 		(property "Reference" "D1"
-			(at 132.08 35.56 90)
+			(at 166.37 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4114,7 +4114,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 133.35 39.37 90)
+			(at 167.64 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4123,7 +4123,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 130.81 38.1 0)
+			(at 165.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4132,7 +4132,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 38.1 0)
+			(at 165.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4141,7 +4141,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 38.1 0)
+			(at 165.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4156,7 +4156,7 @@
 			(uuid "090828e1-c03c-4995-9274-745ee23da872")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "D1")
 					(unit 1)
@@ -4298,7 +4298,7 @@
 			(uuid "f9f7f294-544e-49aa-b5f6-ef159888173e")
 		)
 		(instances
-			(project ""
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "J3")
 					(unit 1)
@@ -4308,7 +4308,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 74.93 34.29 0)
+		(at 109.22 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4316,7 +4316,7 @@
 		(dnp no)
 		(uuid "6a4411a0-373d-4576-bf15-fb0037f11aa6")
 		(property "Reference" "C1"
-			(at 76.2 31.75 0)
+			(at 110.49 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4325,7 +4325,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 76.2 36.83 0)
+			(at 110.49 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4334,7 +4334,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 75.8952 38.1 0)
+			(at 110.1852 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4343,7 +4343,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 74.93 34.29 0)
+			(at 109.22 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4352,7 +4352,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 74.93 34.29 0)
+			(at 109.22 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4367,7 +4367,7 @@
 			(uuid "1b0b0160-10ab-4994-96bf-fc090d026152")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C1")
 					(unit 1)
@@ -4499,7 +4499,7 @@
 			(uuid "2b7087b0-daf0-4b5c-b6be-a5d424cd2ed3")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "R3")
 					(unit 1)
@@ -4565,7 +4565,7 @@
 			(uuid "6271c7bd-5edf-4602-b2a8-835b7b380191")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR017")
 					(unit 1)
@@ -4575,7 +4575,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 74.93 25.4 0)
+		(at 109.22 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4583,7 +4583,7 @@
 		(dnp no)
 		(uuid "70a1819f-1271-4df6-ae90-e0625d747288")
 		(property "Reference" "#PWR02"
-			(at 74.93 29.21 0)
+			(at 109.22 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4592,7 +4592,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 74.93 21.59 0)
+			(at 109.22 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4600,7 +4600,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 25.4 0)
+			(at 109.22 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4609,7 +4609,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 25.4 0)
+			(at 109.22 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4618,7 +4618,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 74.93 25.4 0)
+			(at 109.22 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4630,7 +4630,7 @@
 			(uuid "1628a9ab-8958-435e-81d1-6b5a905c1582")
 		)
 		(instances
-			(project ""
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR02")
 					(unit 1)
@@ -4705,7 +4705,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 130.81 27.94 0)
+		(at 165.1 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4714,7 +4714,7 @@
 		(fields_autoplaced yes)
 		(uuid "899a1e4e-b88e-4813-b670-209a6c5ced5d")
 		(property "Reference" "R1"
-			(at 133.35 26.67 0)
+			(at 167.64 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4723,7 +4723,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 133.35 29.21 0)
+			(at 167.64 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4732,7 +4732,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 129.032 27.94 90)
+			(at 163.322 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +4741,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 27.94 0)
+			(at 165.1 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4750,7 +4750,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 27.94 0)
+			(at 165.1 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4765,7 +4765,7 @@
 			(uuid "aea54d54-0244-485e-9663-2a47fbfbc0ba")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "R1")
 					(unit 1)
@@ -4830,7 +4830,7 @@
 			(uuid "cb129710-f01b-4871-b442-732d7c3a7b1d")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR09")
 					(unit 1)
@@ -4840,7 +4840,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 33.02 29.21 0)
+		(at 67.31 46.99 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4850,7 +4850,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c5f69cd-4677-4038-93a4-75fc545cf3f1")
 		(property "Reference" "J1"
-			(at 30.48 29.2099 0)
+			(at 64.77 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4859,7 +4859,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 30.48 31.7499 0)
+			(at 64.77 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4868,7 +4868,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 33.02 29.21 0)
+			(at 67.31 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4877,7 +4877,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 29.21 0)
+			(at 67.31 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4886,7 +4886,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 33.02 29.21 0)
+			(at 67.31 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4901,7 +4901,7 @@
 			(uuid "316eb804-1647-430a-8f22-3584d5118a5d")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "J1")
 					(unit 1)
@@ -4966,7 +4966,7 @@
 			(uuid "6dacfc75-c634-4227-81ab-6618dcca023c")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR08")
 					(unit 1)
@@ -5098,7 +5098,7 @@
 			(uuid "53d60c1a-3779-4c72-b174-91300587bff9")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "R4")
 					(unit 1)
@@ -5167,7 +5167,7 @@
 			(uuid "94b7ea69-8426-4eca-a343-b75e8878def5")
 		)
 		(instances
-			(project ""
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C5")
 					(unit 1)
@@ -5177,7 +5177,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 97.79 34.29 0)
+		(at 132.08 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5185,7 +5185,7 @@
 		(dnp no)
 		(uuid "aedb5cf8-2fc9-49af-be2c-bf810cd7e09f")
 		(property "Reference" "C2"
-			(at 99.06 31.75 0)
+			(at 133.35 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5194,7 +5194,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 99.06 36.83 0)
+			(at 133.35 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5203,7 +5203,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 98.7552 38.1 0)
+			(at 133.0452 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5212,7 +5212,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 34.29 0)
+			(at 132.08 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5221,7 +5221,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 34.29 0)
+			(at 132.08 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5236,7 +5236,7 @@
 			(uuid "60d568b9-b5cf-431e-999c-d247335b7c8d")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C2")
 					(unit 1)
@@ -5246,7 +5246,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 105.41 25.4 0)
+		(at 139.7 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5254,7 +5254,7 @@
 		(dnp no)
 		(uuid "aeed268a-6cdd-4674-818b-9db8a0fcb7e2")
 		(property "Reference" "#PWR03"
-			(at 105.41 29.21 0)
+			(at 139.7 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5263,7 +5263,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 105.41 21.844 0)
+			(at 139.7 39.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5271,7 +5271,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 25.4 0)
+			(at 139.7 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5280,7 +5280,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 25.4 0)
+			(at 139.7 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5289,7 +5289,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 105.41 25.4 0)
+			(at 139.7 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +5301,7 @@
 			(uuid "4467c93d-972e-481f-b45a-e8c4b35cf46e")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR03")
 					(unit 1)
@@ -5370,7 +5370,7 @@
 			(uuid "3558fc4c-1d4b-44ef-bbe4-331c738a4a24")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "C9")
 					(unit 1)
@@ -5520,7 +5520,7 @@
 			(uuid "9dd88b5f-0f4f-47e4-9f12-0d98dd096a51")
 		)
 		(instances
-			(project ""
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "U2")
 					(unit 1)
@@ -5530,7 +5530,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 40.64 0)
+		(at 121.92 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5538,7 +5538,7 @@
 		(dnp no)
 		(uuid "cef0fc75-1c7f-4a94-b6c5-86085536849a")
 		(property "Reference" "#PWR06"
-			(at 87.63 46.99 0)
+			(at 121.92 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5547,7 +5547,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 44.45 0)
+			(at 121.92 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5555,7 +5555,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 40.64 0)
+			(at 121.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5564,7 +5564,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 40.64 0)
+			(at 121.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5573,7 +5573,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 87.63 40.64 0)
+			(at 121.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5585,7 +5585,7 @@
 			(uuid "3ecfd1af-8354-4e20-97fa-2b383dbeec6f")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR06")
 					(unit 1)
@@ -5657,7 +5657,7 @@
 			(uuid "5622bd4e-048b-4036-89f0-824e2ec14c4f")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "J2")
 					(unit 1)
@@ -5667,7 +5667,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 40.64 34.29 0)
+		(at 74.93 52.07 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5676,7 +5676,7 @@
 		(dnp no)
 		(uuid "ea251907-4517-4419-89b4-3eb051a1b8e3")
 		(property "Reference" "#PWR05"
-			(at 40.64 40.64 0)
+			(at 74.93 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5685,7 +5685,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 40.64 38.1 0)
+			(at 74.93 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5693,7 +5693,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 34.29 0)
+			(at 74.93 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5702,7 +5702,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 34.29 0)
+			(at 74.93 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5711,7 +5711,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 34.29 0)
+			(at 74.93 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5723,7 +5723,7 @@
 			(uuid "1fbdaac9-58ef-41d9-b788-c510ac9ad062")
 		)
 		(instances
-			(project "OTO_NO_DEIRI"
+			(project "TAD5142_Module"
 				(path "/0a6dbbde-6485-47de-bcc6-a0c3494f3cb4"
 					(reference "#PWR05")
 					(unit 1)
